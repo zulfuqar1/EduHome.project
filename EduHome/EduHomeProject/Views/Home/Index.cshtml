@@ -422,69 +422,40 @@
                     <h2>LATEST FROM BLOG</h2>
                 </div>
             </div>
-        </div>
+          </div>
+
+
         <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="single-blog">
-                    <div class="blog-img">
-                        <a href="blog-details.html"><img src="~/assetsf/img/blog/blog1.jpg" alt="blog"></a>
-                        <div class="blog-hover">
-                            <a href="blog-details.html"><i class="fa fa-link"></i></a>
+           
+               @foreach (var blog in Model.Blogs)
+              {
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog">
+                        <div class="blog-img">
+                            <a href="blog-details.html"><img src="@blog.ImagePath" alt="blog"></a>
+                            <div class="blog-hover">
+                                <a href="blog-details.html"><i class="fa fa-link"></i></a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-top">
-                            <p>By Alex  /  June 20, 2023  /  <i class="fa fa-comments-o"></i> 4</p>
-                        </div>
-                        <div class="blog-bottom">
-                            <h2><a href="blog-details.html">I must explain to you how all this a mistaken idea </a></h2>
-                            <a href="blog-details.html">read more</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-blog">
-                    <div class="blog-img">
-                        <a href="blog-details.html"><img src="~/assetsf/img/blog/blog2.jpg" alt="blog"></a>
-                        <div class="blog-hover">
-                            <a href="blog-details.html"><i class="fa fa-link"></i></a>
-                        </div>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-top">
-                            <p>By Alex  /  June 20, 2023  /  <i class="fa fa-comments-o"></i> 4</p>
-                        </div>
-                        <div class="blog-bottom">
-                            <h2><a href="blog-details.html">I must explain to you how all this a mistaken idea </a></h2>
-                            <a href="blog-details.html">read more</a>
+                        <div class="blog-content">
+                            <div class="blog-top">
+                                <p>@blog.Creator  /  @blog.date  /  <i class="fa fa-comments-o"></i> 4</p>
+                            </div>
+                            <div class="blog-bottom">
+                                <h2><a href="blog-details.html">@blog.Description</a></h2>
+                                <a href="blog-details.html">read more</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-blog mb-0">
-                    <div class="blog-img">
-                        <a href="blog-details.html"><img src="~/assetsf/img/blog/blog3.jpg" alt="blog"></a>
-                        <div class="blog-hover">
-                            <a href="blog-details.html"><i class="fa fa-link"></i></a>
-                        </div>
-                    </div>
-                    <div class="blog-content">
-                        <div class="blog-top">
-                            <p>By Alex  /  June 20, 2023  /  <i class="fa fa-comments-o"></i> 4</p>
-                        </div>
-                        <div class="blog-bottom">
-                            <h2><a href="blog-details.html">I must explain to you how all this a mistaken idea </a></h2>
-                            <a href="blog-details.html">read more</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+            }
+
+        </div>  
+        
     </div>
+
 </div>
-<!-- Blog Area End -->
+
 <!-- Subscribe Start -->
 <div class="subscribe-area pt-60 pb-70">
     <div class="container">

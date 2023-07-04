@@ -1,4 +1,5 @@
-﻿using EduHome.DataAccess.Contexts;
+﻿using EduHome.Core.Entities;
+using EduHome.DataAccess.Contexts;
 using EduHomeProject.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -19,6 +20,7 @@ namespace EduHomeProject.Controllers
             HomeVM homeVM = new ()
             {
                 Sliders=await _context.Slider.ToListAsync(),
+                Blogs = await _context.Blogs.ToListAsync(),
             };
             return View(homeVM);
         }

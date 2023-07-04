@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduHomeProject", "EduHomeProject\EduHomeProject.csproj", "{8CBC86E0-E6A4-4227-ABC0-687E0AD08F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduHomeProject.UI", "EduHomeProject\EduHomeProject.UI.csproj", "{8CBC86E0-E6A4-4227-ABC0-687E0AD08F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduHome.Core", "EduHome.Core\EduHome.Core.csproj", "{BB28CA97-AD04-4C62-9A36-D16AA32D0347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduHome.Core", "EduHome.Core\EduHome.Core.csproj", "{BB28CA97-AD04-4C62-9A36-D16AA32D0347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduHome.DataAccess", "EduHome.DataAccess\EduHome.DataAccess.csproj", "{E0064AF5-7B76-42C0-80BC-83EAB2007DE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduHome.DataAccess", "EduHome.DataAccess\EduHome.DataAccess.csproj", "{E0064AF5-7B76-42C0-80BC-83EAB2007DE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
