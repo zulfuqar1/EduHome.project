@@ -249,3 +249,5 @@ C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHomeProject\obj\Debug\net6.0\r
 C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHomeProject\obj\Debug\net6.0\EduHomeProject.UI.pdb
 C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHomeProject\obj\Debug\net6.0\EduHomeProject.UI.genruntimeconfig.cache
 C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHomeProject\obj\Debug\net6.0\ref\EduHomeProject.UI.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHomeProject\bin\Debug\net6.0\AutoMapper.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHomeProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
