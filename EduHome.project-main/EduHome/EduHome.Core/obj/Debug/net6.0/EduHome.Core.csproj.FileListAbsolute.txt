@@ -1,0 +1,36 @@
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.deps.json
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.AssemblyReference.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfoInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfo.cs
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\refint\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.Core\obj\Debug\net6.0\ref\EduHome.Core.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.deps.json
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\refint\EduHome.Core.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.pdb
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\ref\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.deps.json
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\bin\Debug\net6.0\EduHome.Core.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.AssemblyReference.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfoInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.AssemblyInfo.cs
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\refint\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\EduHome.Core.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.Core\obj\Debug\net6.0\ref\EduHome.Core.dll

@@ -1,0 +1,45 @@
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\HP\OneDrive\Desktop\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CopyComplete
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll
