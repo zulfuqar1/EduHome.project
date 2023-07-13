@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\EduHomeAdmin\Data\" />
+    <Folder Include="Areas\EduHomeAdmin\Data\just a NewFolder\" />
   </ItemGroup>
 
 </Project>

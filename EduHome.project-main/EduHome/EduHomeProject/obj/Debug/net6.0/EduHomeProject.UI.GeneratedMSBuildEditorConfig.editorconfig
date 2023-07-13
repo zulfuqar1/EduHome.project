@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\WorkSpace\DATA(main folder)\EduHome\EduHome.project-main\EduHome\EduHomeProject
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/WorkSpace/DATA(main folder)/EduHome/EduHome.project-main/EduHome/EduHomeProject/Areas/EduHomeAdmin/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEF1dGhcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/WorkSpace/DATA(main folder)/EduHome/EduHome.project-main/EduHome/EduHomeProject/Areas/EduHomeAdmin/Views/Blog/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWR1SG9tZUFkbWluXFZpZXdzXEJsb2dcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

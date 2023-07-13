@@ -12,23 +12,24 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 
-builder.Services.AddIdentity<AppUser,IdentityRole>(IdentityOptions =>
-{
-    IdentityOptions.User.RequireUniqueEmail = true;
-    IdentityOptions.Password.RequireNonAlphanumeric = true;
-    IdentityOptions.Password.RequiredLength = 8;
-    IdentityOptions.Password.RequireDigit = true;
-    IdentityOptions.Password.RequireLowercase = true;
-    IdentityOptions.Password.RequireUppercase = true;
+//builder.Services.AddIdentity<AppUser, IdentityRole>(identityOptions =>
+//{
+//    identityOptions.User.RequireUniqueEmail = true;
+//    identityOptions.Password.RequireNonAlphanumeric = true;
+//    identityOptions.Password.RequiredLength = 8;
+//    identityOptions.Password.RequireDigit = true;
+//    identityOptions.Password.RequireLowercase = true;
+//    identityOptions.Password.RequireUppercase = true;
 
-    IdentityOptions.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(3);
-    IdentityOptions.Lockout.MaxFailedAccessAttempts = 5;
-    IdentityOptions.Lockout.AllowedForNewUsers = true;
+//    identityOptions.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(3);
+//    identityOptions.Lockout.MaxFailedAccessAttempts = 5;
+//    identityOptions.Lockout.AllowedForNewUsers = true;
 
-    });
+//}).AddClaimsPrincipalFactory<AppDbContext>()
+//.AddDefaultTokenProviders();
 
 var app = builder.Build();
-
+ 
 app.UseStaticFiles();
 
 
@@ -43,4 +44,6 @@ app.MapControllerRoute(
     name: "Default",
     pattern: "{controller=Home}/{action=Index}/{Id?}"
 );
+
+
 app.Run();
